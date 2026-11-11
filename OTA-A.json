@@ -458,5 +458,28 @@
     "rating_overall": 4.86,
     "review_count": 76,
     "listing_status": "Active"
+  },
+  {
+    "listing_id": "VILLA_TKT_021",
+    "ota_platform": "Tiket.com Villa 21",
+    "listing_url": "https://www.tiket.com/villas/semarang-candi-view-villa",
+    "property_name": "Semarang Candi Hills Pool Villa",
+    "property_type": "Urban Villa",
+    "city": "Semarang",
+    "district": "Candisari",
+    "province": "Jawa Tengah",
+    "host_name": "Arsan Gunawan",
+    "host_type": "Individual Owner",
+    "villa_social_platform": "Instagram",
+    "villa_social_handle": "@candihills_villa2",
+    "villa_social_url": "https://instagram.com/candihills_villa2",
+    "villa_social_followers": 17800,
+    "base_price_per_night": 2400000,
+    "max_guests": 8,
+    "bedrooms_count": 3,
+    "has_private_pool": true,
+    "rating_overall": 4.86,
+    "review_count": 76,
+    "listing_status": "Active"
   }
 ]
