@@ -1,0 +1,467 @@
+[
+  {
+    "id": "PROP_EXT_101",
+    "channel": "Expedia",
+    "business_license_nib": "9120001234561",
+    "title": "Villa Serenity Resort Seminyak",
+    "type": "Villa",
+    "geo_coordinates": "-8.6913,115.1682",
+    "area": {
+      "regency": "Badung",
+      "subdistrict": "Seminyak",
+      "state": "Bali"
+    },
+    "owner_info": {
+      "name": "Budi Santoso",
+      "entity": "Individual"
+    },
+    "rates": {
+      "daily_idr": 2550000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 6,
+      "bedroom_total": 3,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.9,
+      "reviews": 92
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_102",
+    "channel": "TripAdvisor",
+    "business_license_nib": "0220102345672",
+    "title": "Sunset Breeze Cliffside Uluwatu",
+    "type": "Luxury Residence",
+    "geo_coordinates": "-8.8291,115.0849",
+    "area": {
+      "regency": "Badung",
+      "subdistrict": "Uluwatu",
+      "state": "Bali"
+    },
+    "owner_info": {
+      "name": "PT Wayan Manajemen Villa",
+      "entity": "Corporate"
+    },
+    "rates": {
+      "daily_idr": 4900000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 8,
+      "bedroom_total": 4,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.8,
+      "reviews": 60
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_103",
+    "channel": "Hotels.com",
+    "business_license_nib": "9120203456783",
+    "title": "Jogja Heritage Villa & Garden",
+    "type": "Traditional Villa",
+    "geo_coordinates": "-7.7126,110.3951",
+    "area": {
+      "regency": "Sleman",
+      "subdistrict": "Ngaglik",
+      "state": "DI Yogyakarta"
+    },
+    "owner_info": {
+      "name": "Siti Rahma",
+      "entity": "Individual"
+    },
+    "rates": {
+      "daily_idr": 1850000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 10,
+      "bedroom_total": 5,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.5,
+      "reviews": 36
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_104",
+    "channel": "Expedia",
+    "business_license_nib": "9120304567894",
+    "title": "Pine Ridge Lembang Mountain Stays",
+    "type": "Lodge",
+    "geo_coordinates": "-6.8168,107.6171",
+    "area": {
+      "regency": "Bandung Barat",
+      "subdistrict": "Lembang",
+      "state": "Jawa Barat"
+    },
+    "owner_info": {
+      "name": "Deden Kurnia",
+      "entity": "Individual"
+    },
+    "rates": {
+      "daily_idr": 2150000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 12,
+      "bedroom_total": 4,
+      "private_swimming_pool": false
+    },
+    "reputation": {
+      "score": 4.7,
+      "reviews": 70
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_105",
+    "channel": "TripAdvisor",
+    "business_license_nib": "9120506789016",
+    "title": "Bamboo Eco Sanctum Ubud",
+    "type": "Eco Villa",
+    "geo_coordinates": "-8.5069,115.2625",
+    "area": {
+      "regency": "Gianyar",
+      "subdistrict": "Ubud",
+      "state": "Bali"
+    },
+    "owner_info": {
+      "name": "Made Wiweka",
+      "entity": "Individual"
+    },
+    "rates": {
+      "daily_idr": 3000000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 4,
+      "bedroom_total": 2,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.95,
+      "reviews": 150
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_106",
+    "channel": "Expedia",
+    "business_license_nib": "0220607890127",
+    "title": "Echo Beach Modern Villa Canggu",
+    "type": "Modern Villa",
+    "geo_coordinates": "-8.6539,115.1301",
+    "area": {
+      "regency": "Badung",
+      "subdistrict": "Canggu",
+      "state": "Bali"
+    },
+    "owner_info": {
+      "name": "Bali Premium Stays Management",
+      "entity": "Corporate"
+    },
+    "rates": {
+      "daily_idr": 3850000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 6,
+      "bedroom_total": 3,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.6,
+      "reviews": 85
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_107",
+    "channel": "Hotels.com",
+    "business_license_nib": "9120809012349",
+    "title": "Batu Alpine Retreat Villa",
+    "type": "Family Villa",
+    "geo_coordinates": "-7.8671,112.5239",
+    "area": {
+      "regency": "Batu",
+      "subdistrict": "Batu",
+      "state": "Jawa Timur"
+    },
+    "owner_info": {
+      "name": "Rina Wijaya",
+      "entity": "Individual"
+    },
+    "rates": {
+      "daily_idr": 2250000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 10,
+      "bedroom_total": 4,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.85,
+      "reviews": 102
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_108",
+    "channel": "TripAdvisor",
+    "business_license_nib": "0220122345672",
+    "title": "Nusa Dua Ocean View Mansion",
+    "type": "Luxury Mansion",
+    "geo_coordinates": "-8.7961,115.2238",
+    "area": {
+      "regency": "Badung",
+      "subdistrict": "Nusa Dua",
+      "state": "Bali"
+    },
+    "owner_info": {
+      "name": "PT IndoLuxury Retreats",
+      "entity": "Corporate"
+    },
+    "rates": {
+      "daily_idr": 8700000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 12,
+      "bedroom_total": 6,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.8,
+      "reviews": 44
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_109",
+    "channel": "Expedia",
+    "business_license_nib": "9120921234561",
+    "title": "Semarang Hills Boutique Villa",
+    "type": "Urban Villa",
+    "geo_coordinates": "-7.0160,110.4290",
+    "area": {
+      "regency": "Semarang",
+      "subdistrict": "Candisari",
+      "state": "Jawa Tengah"
+    },
+    "owner_info": {
+      "name": "Arsan Gunawan",
+      "entity": "Individual"
+    },
+    "rates": {
+      "daily_idr": 2450000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 8,
+      "bedroom_total": 3,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.8,
+      "reviews": 79
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_110",
+    "channel": "Hotels.com",
+    "business_license_nib": "0220677890127",
+    "title": "Gili Air Coral Cove Villa",
+    "type": "Island Villa",
+    "geo_coordinates": "-8.3589,116.0827",
+    "area": {
+      "regency": "Lombok Utara",
+      "subdistrict": "Pamenang",
+      "state": "Nusa Tenggara Barat"
+    },
+    "owner_info": {
+      "name": "Island Escape Group",
+      "entity": "Corporate"
+    },
+    "rates": {
+      "daily_idr": 2350000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 4,
+      "bedroom_total": 2,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.7,
+      "reviews": 69
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_201",
+    "channel": "Expedia",
+    "business_license_nib": "8120999887711",
+    "title": "Labuan Bajo Sunset Haven",
+    "type": "Harbor Villa",
+    "geo_coordinates": "-8.4964,119.8877",
+    "area": {
+      "regency": "Manggarai Barat",
+      "subdistrict": "Komodo",
+      "state": "Nusa Tenggara Timur"
+    },
+    "owner_info": {
+      "name": "Floris Maringka",
+      "entity": "Individual"
+    },
+    "rates": {
+      "daily_idr": 5200000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 6,
+      "bedroom_total": 3,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.9,
+      "reviews": 41
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_202",
+    "channel": "TripAdvisor",
+    "business_license_nib": "8120999887722",
+    "title": "Belitung White Sand Beachfront Villa",
+    "type": "Beachfront Villa",
+    "geo_coordinates": "-2.5631,107.6492",
+    "area": {
+      "regency": "Belitung",
+      "subdistrict": "Sijuk",
+      "state": "Kepulauan Bangka Belitung"
+    },
+    "owner_info": {
+      "name": "Chandra Hartono",
+      "entity": "Individual"
+    },
+    "rates": {
+      "daily_idr": 3400000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 8,
+      "bedroom_total": 4,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.88,
+      "reviews": 33
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_203",
+    "channel": "Hotels.com",
+    "business_license_nib": "0120888776633",
+    "title": "Malang Apple Garden Pool Villa",
+    "type": "Country Villa",
+    "geo_coordinates": "-7.9784,112.6318",
+    "area": {
+      "regency": "Malang",
+      "subdistrict": "Klojen",
+      "state": "Jawa Timur"
+    },
+    "owner_info": {
+      "name": "PT Jawa Timur Hospitality",
+      "entity": "Corporate"
+    },
+    "rates": {
+      "daily_idr": 1750000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 10,
+      "bedroom_total": 4,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.65,
+      "reviews": 57
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_204",
+    "channel": "Expedia",
+    "business_license_nib": "8120777665544",
+    "title": "Lake Toba Samosir Pine Cottage",
+    "type": "Lakefront Cabin",
+    "geo_coordinates": "2.6582,98.8143",
+    "area": {
+      "regency": "Samosir",
+      "subdistrict": "Simanindo",
+      "state": "Sumatera Utara"
+    },
+    "owner_info": {
+      "name": "Togu Simanjuntak",
+      "entity": "Individual"
+    },
+    "rates": {
+      "daily_idr": 1600000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 6,
+      "bedroom_total": 3,
+      "private_swimming_pool": false
+    },
+    "reputation": {
+      "score": 4.75,
+      "reviews": 48
+    },
+    "is_available": true
+  },
+  {
+    "id": "PROP_EXT_205",
+    "channel": "TripAdvisor",
+    "business_license_nib": "0120666554455",
+    "title": "Anyer Coastal Horizon Villa",
+    "type": "Coastal Villa",
+    "geo_coordinates": "-6.0543,105.9082",
+    "area": {
+      "regency": "Serang",
+      "subdistrict": "Anyar",
+      "state": "Banten"
+    },
+    "owner_info": {
+      "name": "PT Anyer Bahari Pesona",
+      "entity": "Corporate"
+    },
+    "rates": {
+      "daily_idr": 2800000,
+      "currency": "IDR"
+    },
+    "specs": {
+      "guest_limit": 14,
+      "bedroom_total": 5,
+      "private_swimming_pool": true
+    },
+    "reputation": {
+      "score": 4.4,
+      "reviews": 82
+    },
+    "is_available": true
+  }
+]

@@ -22,7 +22,8 @@
     "has_private_pool": true,
     "rating_overall": 4.92,
     "review_count": 84,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120001234561"
   },
   {
     "listing_id": "VILLA_BKG_002",
@@ -47,7 +48,8 @@
     "has_private_pool": true,
     "rating_overall": 9.4,
     "review_count": 52,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "0220102345672"
   },
   {
     "listing_id": "VILLA_AGD_003",
@@ -72,7 +74,8 @@
     "has_private_pool": true,
     "rating_overall": 8.8,
     "review_count": 31,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120203456783"
   },
   {
     "listing_id": "VILLA_TVL_004",
@@ -97,7 +100,8 @@
     "has_private_pool": false,
     "rating_overall": 4.85,
     "review_count": 67,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120304567894"
   },
   {
     "listing_id": "VILLA_TKT_005",
@@ -122,7 +126,8 @@
     "has_private_pool": true,
     "rating_overall": 4.75,
     "review_count": 110,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120405678905"
   },
   {
     "listing_id": "VILLA_ABB_006",
@@ -147,7 +152,8 @@
     "has_private_pool": true,
     "rating_overall": 4.97,
     "review_count": 142,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120506789016"
   },
   {
     "listing_id": "VILLA_BKG_007",
@@ -172,7 +178,8 @@
     "has_private_pool": true,
     "rating_overall": 9.2,
     "review_count": 78,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "0220607890127"
   },
   {
     "listing_id": "VILLA_AGD_008",
@@ -197,7 +204,8 @@
     "has_private_pool": true,
     "rating_overall": 9.1,
     "review_count": 40,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120708901238"
   },
   {
     "listing_id": "VILLA_TVL_009",
@@ -222,7 +230,8 @@
     "has_private_pool": true,
     "rating_overall": 4.88,
     "review_count": 95,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120809012349"
   },
   {
     "listing_id": "VILLA_TKT_010",
@@ -247,7 +256,8 @@
     "has_private_pool": true,
     "rating_overall": 4.82,
     "review_count": 63,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120900123450"
   },
   {
     "listing_id": "VILLA_ABB_011",
@@ -272,7 +282,8 @@
     "has_private_pool": false,
     "rating_overall": 4.94,
     "review_count": 115,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120011234561"
   },
   {
     "listing_id": "VILLA_BKG_012",
@@ -297,7 +308,8 @@
     "has_private_pool": true,
     "rating_overall": 9.6,
     "review_count": 38,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "0220122345672"
   },
   {
     "listing_id": "VILLA_AGD_013",
@@ -322,7 +334,8 @@
     "has_private_pool": true,
     "rating_overall": 9.0,
     "review_count": 72,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120233456783"
   },
   {
     "listing_id": "VILLA_TVL_014",
@@ -347,7 +360,8 @@
     "has_private_pool": false,
     "rating_overall": 4.79,
     "review_count": 88,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120344567894"
   },
   {
     "listing_id": "VILLA_TKT_015",
@@ -372,7 +386,8 @@
     "has_private_pool": false,
     "rating_overall": 4.7,
     "review_count": 45,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120455678905"
   },
   {
     "listing_id": "VILLA_ABB_016",
@@ -397,7 +412,8 @@
     "has_private_pool": true,
     "rating_overall": 4.91,
     "review_count": 98,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120566789016"
   },
   {
     "listing_id": "VILLA_BKG_017",
@@ -422,7 +438,8 @@
     "has_private_pool": true,
     "rating_overall": 9.3,
     "review_count": 64,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "0220677890127"
   },
   {
     "listing_id": "VILLA_AGD_018",
@@ -447,7 +464,8 @@
     "has_private_pool": true,
     "rating_overall": 9.1,
     "review_count": 55,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120788901238"
   },
   {
     "listing_id": "VILLA_TVL_019",
@@ -472,7 +490,8 @@
     "has_private_pool": false,
     "rating_overall": 4.8,
     "review_count": 51,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120899012349"
   },
   {
     "listing_id": "VILLA_TKT_020",
@@ -497,7 +516,8 @@
     "has_private_pool": true,
     "rating_overall": 4.86,
     "review_count": 76,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120910123450"
   },
   {
     "listing_id": "VILLA_TKT_021",
@@ -522,7 +542,8 @@
     "has_private_pool": true,
     "rating_overall": 4.86,
     "review_count": 76,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120921234561"
   },
   {
     "listing_id": "VILLA_TKT_022",
@@ -547,6 +568,7 @@
     "has_private_pool": true,
     "rating_overall": 4.86,
     "review_count": 76,
-    "listing_status": "Active"
+    "listing_status": "Active",
+    "nib": "9120921234561"
   }
 ]
